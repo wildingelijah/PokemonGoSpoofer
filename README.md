@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Introduction
 
-You can use the [editor on GitHub](https://github.com/wildingelijah/PokemonGoSpoofer/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This project was designed solely by myself in my spare time. I had never coded with XCode before so I looked up tutorials and taught myself the basics so I could design this app. My motivation for designing this app started from creation of the wildy popular Pokemon Go application. All of my friends (with gbs of data) were out catching cool Pokemon and I couldn't because you needed an internet connection to do this and sadly I have very little data! Obviously I needed a solution. So I created a GPS spoofing application for my iPhone that convinced my phone that I was walking around a nearby park so that I could sit on my couch and catch Pokemon. Problem solved.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About The Project
 
-### Markdown
+The app was a GPS spoofing iOS app. It's sole function was to take a Google Maps hyperlink of a location to location route and then spoof my location so that I continually "walked" that route. All I had to was enter the route's link and have the app running in the background and then go into Pokemon Go and it would "walk" that route for me. The app was designed completely in XCode and tested/used on my iPhone. I did also make a nice app logo and GUI using photoshop to make the app seem more aesthetic.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Files
 
-- Bulleted
-- List
+Unfortunately I did not keep any of the app files as Pokemon Go lost popularity and the app lost its usefulness for me.
 
-1. Numbered
-2. List
+If you would like to know more about how the app functioned or any other intricacies of the project that I may still remember then feel free to ask me questions at: **elijahwilding@gmail.com**.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Back
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wildingelijah/PokemonGoSpoofer/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Back to main page of portfolio](https://wildingelijah.github.io/)
